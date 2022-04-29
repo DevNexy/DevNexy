@@ -4,7 +4,7 @@
 
 ![alt text](resume_image.png)
 
-### 간단한 자기소개
+### 간단한 자기소개 👀
 > - __E-mail__
 >> we726@naver.com
 > - __전화번호__
@@ -16,12 +16,12 @@
 > - tistory 주소
 >> https://devjisong.tistory.com/
 > 
-> - __학력__
+> - __학력__ 🎓
 >> __상지여자고등학교 졸업__
 >>
 >> __한림대학교 재학__ (2023년 2월졸업 예정)
 ---
-### Tech Stack
+### ❗Tech Stack ❗
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/C++-yellow?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp;
@@ -48,11 +48,21 @@
 - 2019
   - 한림대학교 소프트웨어융합대학 입학
   - 한림대학교 제 1대 빅데이터 학생회 '한결' 홍보부원
-  - 디파이(소융대 축구동아리) 부원
+  - 디파이(소융대 축구동아리) 매니저
+  - 블레스(소융대 축구동아리) 매니저
+  - 멀티플렉스(소융대 학술동아리) 부원 -> 1학기
   - 스포츠스태킹 코치
 - 2020
   - 한림대학교 빅데이터 전공선택
   - 한림대학교 콘텐츠IT 복수전공선택
   - 디파이(소융대 축구동아리) 총무
+  - 블레스(소융대 축구동아리) 매니저
+- 2021
+  - 디파이(소융대 축구동아리) 매니저
+  - (소융대 축구동아리) 매니저
+- 2022
+  - 한림대학교 제 4대 빅데이터 학생회 '라온' 홍보국장
+  - 디파이(소융대 축구동아리) 매니저
+  - 대쉬(소융대 농구동아리) 매니저
 ---
 ## 프로젝트 경험
