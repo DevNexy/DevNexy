@@ -22,13 +22,14 @@
 >> __한림대학교 재학__ (2023년 2월졸업 예정)
 ---
 ### ❗Tech Stack ❗
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/R-gray?style=flat-square&logo=r&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/C-red?style=flat-square&logo=c&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/C++-yellow?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/CSharp-red?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/CSS-blueviolet?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Javascript-brightgreen?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/R-gray?style=flat-square&logo=r&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp;
 
 등이 있습니다.
@@ -40,7 +41,7 @@
 - 2015
   - 스포츠스태킹 주니어코치
 - 2016-2017
-  - 스포츠스태킹 국가대표 상비군
+  - 스포츠스태킹 아시안 챔피언십 국가대표 상비군
   - M&M(정규 수학 동아리) 부원
 - 2018
   - 1M(자율 수학 동아리) 회장
