@@ -5,6 +5,7 @@
 ![alt text](resume_image.png)
 
 한림대학교 빅데이터 전공 송지원
+### 간단한 자기소개
 > - __E-mail__
 >> we726@naver.com
 > - __전화번호__
@@ -18,23 +19,14 @@
 >> github.com/devjisong
 >
 ---
-### 간단한 자기소개
-저는 한림대학교에 재학중인 송지원입니다.
 
-|자기|소개|
-|-----|-----|
-|나이| 23살|
-|취미| 인스타그램|
-|종교| 무교|
-
-지금까지 사용해본 프로그래밍 언어로는
-- java
-- C
-- C++
-- C#
-- python
-- R
-- javascript
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/CSharp-3766AB?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/CSS-3766AB?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Javascript-3766AB?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=r&logoColor=white"/></a>&nbsp
 
 등이 있습니다.
 
