@@ -42,6 +42,7 @@ Jiwon Song 😎
   - <VR/AR term-project> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>&nbsp;
     - 프로젝트 명 : 좀비때찌(Zombie_Attack)
     - 1인칭 fps게임
+    - [보러가기](https://github.com/devjisong/Unity_Project_Zombie_Attack)
 - 2021-1
   - <Data_Science_Basic final progject> <img src="https://img.shields.io/badge/Rstudio-75AADB?style=flat-square&logo=rstudio&logoColor=white"/></a>&nbsp;
     - R을 활용한 기말 프로젝트
@@ -49,10 +50,12 @@ Jiwon Song 😎
   - <Virtual_reality term-project> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>&nbsp;
     - 프로젝트 명 : maze길 (Maze_Load)
     - 1인칭 미로 가상현실 게임
+    - [보러가기](https://github.com/devjisong/Unity_Project_Maze_Load)
 - 2021-2
   - <System_Programming term-project> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>&nbsp;
     - 프로젝트 명 : Our-Walkie-Talkie 
     - 무전기 소켓 통신 프로그램
+    - [보러가기](https://github.com/devjisong/Our_Walkie_Talkie)
   - <NLP_Project> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/></a>&nbsp;
     - 자연어 처리 기반 감성 리뷰
     - 업로드 준비중
