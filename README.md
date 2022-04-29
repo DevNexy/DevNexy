@@ -16,8 +16,11 @@
 >>
 >> __한림대학교 재학__ (2023년 2월졸업 예정)
 > - github 주소
->> github.com/devjisong
->
+>> https://github.com/devjisong
+> - instagram 주소
+>> https://www.instagram.com/_zwxnn_/
+> - tistory 주소
+>> https://devjisong.tistory.com/
 ---
 ### Tech Stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
