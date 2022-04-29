@@ -19,14 +19,15 @@
 >> github.com/devjisong
 >
 ---
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/CSharp-3766AB?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/CSS-3766AB?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Javascript-3766AB?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=r&logoColor=white"/></a>&nbsp
+### Tech Stack
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/C++-yellow?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/CSharp-red?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/CSS-blueviolet?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Javascript-brightgreen?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/R-gray?style=flat-square&logo=r&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp;
 
 등이 있습니다.
 
