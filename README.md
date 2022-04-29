@@ -1,16 +1,44 @@
-### Hi there 👋
+### Hi there 👋 I'm 
 
-<!--
-**devjisong/devjisong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 이력서
 
-Here are some ideas to get you started:
+![alt text](resume_image.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+한림대학교 빅데이터 전공 송지원
+> - __E-mail__
+>> we726@naver.com
+> - __전화번호__
+>> __010-2248-5126__
+> 
+> - __학력__
+>> __상지여자고등학교 졸업__
+>>
+>> __한림대학교 재학__ (2023년 2월졸업 예정)
+> - github 주소
+>> github.com/devjisong
+>
+---
+### 간단한 자기소개
+저는 한림대학교에 재학중인 송지원입니다.
+
+|자기|소개|
+|-----|-----|
+|나이| 23살|
+|취미| 인스타그램|
+|종교| 무교|
+
+지금까지 사용해본 프로그래밍 언어로는
+- java
+- C
+- C++
+- C#
+- python
+- R
+- javascript
+
+등이 있습니다.
+
+최근에는 메타버스(The MetaVerse)를 구현하기 위해 webGL을 공부하고 있고, babylon.js를 이용한 메타버스 플랫폼을 만들고 있습니다.
+
+---
+## 프로젝트 경험
