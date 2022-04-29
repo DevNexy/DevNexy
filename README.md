@@ -1,4 +1,4 @@
-### Hi there 👋 I'm 
+### Hi there 👋 I'm jiwon..
 
 # 이력서
 
