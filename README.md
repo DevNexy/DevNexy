@@ -20,13 +20,13 @@ Jiwon Song 😎
 >> 23
 > - __E-mail__
 >> we726@naver.com
-> - __github 주소__
+> - __github__
 >> https://github.com/devjisong
-> - __instagram 주소__
+> - __instagram__
 >> https://www.instagram.com/_zwxnn_/
-> - __tistory 주소__
+> - __tistory__
 >> https://devjisong.tistory.com/
-> - __youtube 주소__
+> - __youtube__
 >> https://www.youtube.com/channel/UCFMhqzXlk4xEN-oHhvZOEiQ
 > 
 > - 🎓 __학력__ 🎓
