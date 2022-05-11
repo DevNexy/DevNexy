@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm jiwon..
 
-# 이력서
-
 Hallym University   
 Jiwon Song 😎
 
