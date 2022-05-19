@@ -45,6 +45,7 @@ Jiwon Song 😎
   - <Data_Science_Basic final progject> <img src="https://img.shields.io/badge/Rstudio-75AADB?style=flat-square&logo=rstudio&logoColor=white"/></a>&nbsp;
     - R을 활용한 기말 프로젝트
     - 업로드 준비중
+    - [보러가기](https://github.com/devjisong/Data_Science_Project)
   - <Virtual_reality term-project> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>&nbsp;
     - 프로젝트 명 : maze길 (Maze_Load)
     - 1인칭 미로 가상현실 게임
