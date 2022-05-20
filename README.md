@@ -56,7 +56,7 @@ Jiwon Song 😎
     - [보러가기](https://github.com/devjisong/Our_Walkie_Talkie)
   - <NLP_Project> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/></a>&nbsp;
     - 자연어 처리 기반 감성 리뷰
-    - 업로드 준비중
+    - [보러가기](https://github.com/devjisong/Natural_Language_Processing_Project_Emotional_Review)
   - <Mobile_programming project> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>&nbsp;
     - 안드로이드 스튜디오를 활용한 나만의 앱 개발
     - 업로드 준비중
