@@ -60,7 +60,7 @@ Jiwon Song 😎
   - <Mobile_programming project> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>&nbsp;
     - 안드로이드 스튜디오를 활용한 나만의 앱 개발
     - 업로드 준비중
-- 2022-2
+- 2022-1
 
 최근에는 메타버스(The MetaVerse)를 구현하기 위해 webGL을 공부하고 있고,   
 babylon.js를 이용한 메타버스 플랫폼을 만들고 있습니다.(캡스톤 디자인)   
