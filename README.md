@@ -61,7 +61,12 @@ Jiwon Song 😎
     - 안드로이드 스튜디오를 활용한 나만의 앱 개발
     - 업로드 준비중
 - 2022-1
-
+  - <Capston_Design>
+    - 메타버스 콘텐츠 제작을 위한 메타버스 플랫폼 개발
+    - 팀명 : 어사유사
+    - Babylon.js 사용
+    - Unity 사용
+    - [보러가기](https://github.com/devjisong/Capston_Design)
 최근에는 메타버스(The MetaVerse)를 구현하기 위해 webGL을 공부하고 있고,   
 babylon.js를 이용한 메타버스 플랫폼을 만들고 있습니다.(캡스톤 디자인)   
 OpenCV를 활용한 영상처리 프로젝트 준비중입니다  
