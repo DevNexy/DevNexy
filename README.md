@@ -14,6 +14,7 @@ Jiwon Song 😎
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp;
 
 ### 👀간단한 자기소개 👀
 > - __Age__
@@ -61,7 +62,7 @@ Jiwon Song 😎
     - 안드로이드 스튜디오를 활용한 나만의 앱 개발
     - 업로드 준비중
 - 2022-1
-  - <Capston_Design>
+  - <Capston_Design> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>&nbsp;
     - 메타버스 콘텐츠 제작을 위한 메타버스 플랫폼 개발
     - 팀명 : 어사유사
     - Babylon.js 사용
