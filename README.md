@@ -68,7 +68,10 @@ Jiwon Song 😎
     - Babylon.js 사용
     - Unity 사용
     - [보러가기](https://github.com/devjisong/Capston_Design)
-      
+  - <WebGL_Project>
+    - WebGL을 이용한 컴퓨터 그래픽스 프로젝트
+    - 프로젝트 명 : 죽음의 무대
+    - [보러가기](https://github.com/devjisong/WebGL_Project)
 OpenCV를 활용한 영상처리 프로젝트 준비중입니다  
 정보처리기사 실기 공부중입니다
 
