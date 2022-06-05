@@ -78,7 +78,7 @@ Jiwon Song 😎
   - <OpenCV_final_project>
     - OpenCV를 활용한 영상처리 프로그래밍 기말 프로젝트
     - 프로젝트 주제 : 다양한 필터 프로그램
-    - 업로드 준비중
+    - [보러가기](https://github.com/devjisong/OpenCV_Project)
     
 OpenCV를 활용한 영상처리 프로젝트 준비중입니다  
 정보처리기사 실기 공부중입니다
