@@ -80,8 +80,6 @@ Jiwon Song 😎
     - 프로젝트 주제 : 다양한 필터 프로그램
     - [보러가기](https://github.com/devjisong/OpenCV_Project)
     
-현재 저는   
-정보처리기사 실기 공부중입니다
 
 ---
 ## 🥇경력 🥇
