@@ -1,9 +1,9 @@
-### Hi there 👋 I'm jiwon..
+### Hi there 👋
 
 Hallym University   
 Jiwon Song 😎
 
-### ❗Tech Stack ❗
+### ❗Tech Stack❗
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/></a>&nbsp;
@@ -19,7 +19,7 @@ Jiwon Song 😎
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp;
 
 
-### 👀Self Introduction 👀
+### 👀Self Introduction👀
 > - __Age__
 >> 23
 > - __E-mail__
@@ -33,16 +33,16 @@ Jiwon Song 😎
 > - __youtube__
 >> https://www.youtube.com/channel/UCFMhqzXlk4xEN-oHhvZOEiQ
 > 
-> - 🎓 __Academic Ability__ 🎓
+> - 🎓 __Academic Ability__🎓
 >> __평원중학교 졸업__   
 >> __상지여자고등학교 졸업__   
 >> __한림대학교 재학__ (2023년 2월졸업 예정)
 >
-> - :clipboard: __License__ :clipboard:
+> - :clipboard:__License__:clipboard:
 >> Microsoft Office Specialist 2016 Expert Excel
 ---
 
-### 📑Portfolio 📑
+### 📑Portfolio📑
 - 2020-2
   - <VR/AR term-project> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>&nbsp;
     - 프로젝트 명 : 좀비때찌(Zombie_Attack)
@@ -85,7 +85,12 @@ Jiwon Song 😎
     
 
 ---
-## 🥇Career 🥇
+## :trophy:Award:trophy:
+- [교내 공모전] 유니티 기반 게임 개발 SW경진대회 우수상
+- [교내 공모전] SW 교과목 추천 에세이 공모전 장려상
+- 2022년도 1학기 SW캡스톤디자인 경진대회 동상
+---
+## 🥇Career🥇
 - 2015
   - 스포츠스태킹 주니어코치
 - 2016-2017
