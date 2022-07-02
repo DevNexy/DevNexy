@@ -19,7 +19,7 @@ Jiwon Song 😎
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp;
 
 
-### 👀간단한 자기소개 👀
+### 👀Self Introduction 👀
 > - __Age__
 >> 23
 > - __E-mail__
@@ -33,13 +33,16 @@ Jiwon Song 😎
 > - __youtube__
 >> https://www.youtube.com/channel/UCFMhqzXlk4xEN-oHhvZOEiQ
 > 
-> - 🎓 __학력__ 🎓
+> - 🎓 __Academic Ability__ 🎓
 >> __평원중학교 졸업__   
 >> __상지여자고등학교 졸업__   
 >> __한림대학교 재학__ (2023년 2월졸업 예정)
+>
+> - :clipboard: __License__ :clipboard:
+>> Microsoft Office Specialist 2016 Expert Excel
 ---
 
-### 📑포트폴리오 📑
+### 📑Portfolio 📑
 - 2020-2
   - <VR/AR term-project> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>&nbsp;
     - 프로젝트 명 : 좀비때찌(Zombie_Attack)
@@ -82,7 +85,7 @@ Jiwon Song 😎
     
 
 ---
-## 🥇경력 🥇
+## 🥇Career 🥇
 - 2015
   - 스포츠스태킹 주니어코치
 - 2016-2017
