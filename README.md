@@ -20,18 +20,12 @@ Jiwon Song 😎
 
 
 ### 👀Self Introduction👀
-> - __Age__
->> 23
 > - __E-mail__
 >> we726@naver.com
 > - __github__
 >> https://github.com/devjisong
-> - __instagram__
->> https://www.instagram.com/_zwxnn_/
 > - __tistory__
 >> https://devjisong.tistory.com/
-> - __youtube__
->> https://www.youtube.com/channel/UCFMhqzXlk4xEN-oHhvZOEiQ
 > 
 > - 🎓 __Academic Ability__🎓
 >> __평원중학교 졸업__   
