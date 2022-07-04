@@ -27,7 +27,7 @@ Jiwon Song 😎
 > - __tistory__
 >> https://devjisong.tistory.com/
 > 
-> - 🎓 __Academic Ability__🎓
+> - 🎓Academic Ability🎓
 >> __평원중학교 졸업__   
 >> __상지여자고등학교 졸업__   
 >> __한림대학교 재학__ (2023년 2월졸업 예정)
