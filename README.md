@@ -20,6 +20,8 @@ Jiwon Song 😎
 
 
 ### 👀Self Introduction👀
+> - __Name__
+>> 송지원(Ji Won Song)
 > - __E-mail__
 >> we726@naver.com
 > - __github__
