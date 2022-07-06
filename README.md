@@ -23,7 +23,7 @@ Jiwon Song 😎
 > - __E-mail__
 >> we726@naver.com
 > - __github__
->> https://github.com/devjisong
+>> https://github.com/DevNexy
 > - __tistory__
 >> https://devjisong.tistory.com/
 > 
@@ -41,23 +41,23 @@ Jiwon Song 😎
   - <VR/AR term-project> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>&nbsp;
     - 프로젝트 명 : 좀비때찌(Zombie_Attack)
     - 1인칭 fps게임
-    - [보러가기](https://github.com/devjisong/Unity_Project_Zombie_Attack)
+    - [보러가기](https://github.com/DevNexy/Unity_Project_Zombie_Attack)
 - 2021-1
   - <Data_Science_Basic final progject> <img src="https://img.shields.io/badge/Rstudio-75AADB?style=flat-square&logo=rstudio&logoColor=white"/></a>&nbsp;
     - R을 활용한 기말 프로젝트
-    - [보러가기](https://github.com/devjisong/Data_Science_Project)
+    - [보러가기](https://github.com/DevNexy/Data_Science_Project)
   - <Virtual_reality term-project> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>&nbsp;
     - 프로젝트 명 : maze길 (Maze_Load)
     - 1인칭 미로 가상현실 게임
-    - [보러가기](https://github.com/devjisong/Unity_Project_Maze_Load)
+    - [보러가기](https://github.com/DevNexy/Unity_Project_Maze_Load)
 - 2021-2
   - <System_Programming term-project> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>&nbsp;
     - 프로젝트 명 : Our-Walkie-Talkie 
     - 무전기 소켓 통신 프로그램
-    - [보러가기](https://github.com/devjisong/Our_Walkie_Talkie)
+    - [보러가기](https://github.com/DevNexy/Our_Walkie_Talkie)
   - <NLP_Project> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/></a>&nbsp;
     - 자연어 처리 기반 감성 리뷰
-    - [보러가기](https://github.com/devjisong/Natural_Language_Processing_Project_Emotional_Review)
+    - [보러가기](https://github.com/DevNexy/Natural_Language_Processing_Project_Emotional_Review)
   - <Mobile_programming project> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>&nbsp;
     - 안드로이드 스튜디오를 활용한 나만의 앱 개발
     - 업로드 준비중
@@ -67,15 +67,15 @@ Jiwon Song 😎
     - 팀명 : 어사유사
     - Babylon.js 사용
     - Unity 사용
-    - [보러가기](https://github.com/devjisong/Capston_Design)
+    - [보러가기](https://github.com/DevNexy/Capston_Design)
   - <WebGL_Project> <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/></a>&nbsp;
     - WebGL을 이용한 컴퓨터 그래픽스 프로젝트
     - 프로젝트 명 : 죽음의 무대
-    - [보러가기](https://github.com/devjisong/WebGL_Project)
+    - [보러가기](https://github.com/DevNexy/WebGL_Project)
   - <OpenCV_final_project> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></a>&nbsp;
     - OpenCV를 활용한 영상처리 프로그래밍 기말 프로젝트
     - 프로젝트 주제 : 다양한 필터 프로그램
-    - [보러가기](https://github.com/devjisong/OpenCV_Project)
+    - [보러가기](https://github.com/DevNexy/OpenCV_Project)
     
 
 ---
