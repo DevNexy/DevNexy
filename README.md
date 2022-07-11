@@ -35,7 +35,8 @@ Jiwon Song 😎
 >> __한림대학교 재학__ (2023년 2월졸업 예정)
 >
 > - :clipboard:__License__:clipboard:
->> Microsoft Office Specialist 2016 Expert Excel
+>> Microsoft Office Specialisty 2016 Expert Excel   
+>> Microsoft Office Specialisty 2016 Expert Word
 ---
 
 ### 📑Portfolio📑
