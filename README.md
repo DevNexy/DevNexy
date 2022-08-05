@@ -63,7 +63,7 @@ Jiwon Song 😎
     - [보러가기](https://github.com/DevNexy/Natural_Language_Processing_Project_Emotional_Review)
   - <Mobile_programming project> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>&nbsp;
     - 안드로이드 스튜디오를 활용한 나만의 앱 개발
-    - 업로드 준비중
+    - [보러가기](https://github.com/DevNexy/Android_Studio_Project)
 - 2022-1
   - <Capston_Design> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>&nbsp;
     - 메타버스 콘텐츠 제작을 위한 메타버스 플랫폼 개발
