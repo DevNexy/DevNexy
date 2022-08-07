@@ -24,9 +24,9 @@ Jiwon Song 😎
 >> 송지원 (Jiwon Song)
 > - __E-mail__
 >> we726@naver.com
-> - __github__
+> - __Github__
 >> https://github.com/DevNexy
-> - __tistory__
+> - __Tistory__
 >> https://devjisong.tistory.com/
 > 
 > - 🎓Academic Ability🎓
