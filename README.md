@@ -19,7 +19,8 @@
 >> Microsoft Office Specialisty 2016 Expert Excel   
 >> Microsoft Office Specialisty 2016 Expert Word
 ---
-![DevNexy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNexy&show_icons=true&theme=radical)
+![DevNexy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNexy&show_icons=true&theme=radical)   
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=we726)](https://solved.ac/we726/)
 
 ### ❗Tech Stack❗
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
