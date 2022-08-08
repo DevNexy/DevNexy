@@ -19,6 +19,8 @@
 >> Microsoft Office Specialisty 2016 Expert Excel   
 >> Microsoft Office Specialisty 2016 Expert Word
 ---
+![DevNexy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNexy&show_icons=true&theme=radical)
+
 ### ❗Tech Stack❗
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
