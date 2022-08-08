@@ -19,10 +19,9 @@
 >> Microsoft Office Specialisty 2016 Expert Excel   
 >> Microsoft Office Specialisty 2016 Expert Word
 ---
-<div align="center">
 
 ### ❗Tech Stack❗
-![DevNexy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNexy&show_icons=true&theme=tokyonight)   
+![DevNexy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNexy&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=we726)](https://solved.ac/we726/)   
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
@@ -37,8 +36,6 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp;
-
-</div>
 
 ---
 
