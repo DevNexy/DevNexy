@@ -79,8 +79,7 @@
     - OpenCV를 활용한 영상처리 프로그래밍 기말 프로젝트
     - 프로젝트 주제 : 다양한 필터 프로그램
     - [보러가기](https://github.com/DevNexy/OpenCV_Project)
-    
-
+- 2022-2(막학기 인턴)
 ---
 
 ### :trophy:Award:trophy:
