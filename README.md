@@ -80,7 +80,7 @@
     - 프로젝트 주제 : 다양한 필터 프로그램
     - [보러가기](https://github.com/DevNexy/OpenCV_Project)
 - 2022-2(막학기 인턴)
-  - <VR_Room_Escape_Game>
+  - <VR_Room_Escape_Game> <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/></a>&nbsp;
     - VR 방탈출 게임
     - Oculus quest 2를 이용하여 조작
     - [보러가기](https://github.com/DevNexy/Room_Escape_VRGame)
