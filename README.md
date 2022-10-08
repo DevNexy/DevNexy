@@ -86,7 +86,12 @@
     - OpenCV를 활용한 영상처리 프로그래밍 기말 프로젝트
     - 프로젝트 주제 : 다양한 필터 프로그램
     - [보러가기](https://github.com/DevNexy/OpenCV_Project)
-- 2022-2(막학기 인턴)
+- 2022-2 (막학기 인턴)
+  - <UnrealEngine_Example> <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/></a>&nbsp;
+    - 언리얼 엔진에 익숙해지기 위한 예제들
+    - 얼불춤 게임의 특성을 반영한 시뮬레이션
+    - 롤 오리아나 스킬 구현
+    - TPS 게임
   - <VR_Room_Escape_Game> <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/></a>&nbsp;
     - VR 방탈출 게임
     - Oculus quest 2를 이용하여 조작
