@@ -1,8 +1,28 @@
 ### Hi there 👋
 
-### 간략 자기소개   
-가상현실(VR), 게임 개발자의 꿈을 키워나가고 있습니다.   
-현재, 저는 4학년 2학기, (주)브이알애드 의료 교육용 시뮬레이터 개발 회사에서 인턴 개발자로 근무중입니다.
+### 👀Profile👀
+> - __Name__
+>> 송지원 (Jiwon Song)
+> - __E-mail__
+>> we726@naver.com
+> - __Github__
+>> https://github.com/DevNexy
+> - __Tistory__
+>> https://devjisong.tistory.com/
+> 
+> - 🎓Academic Ability🎓
+>> __평원중학교 졸업__   
+>> __상지여자고등학교 졸업__   
+>> __한림대학교 재학__ (2023년 2월졸업 예정)
+>
+> - :clipboard:__License__:clipboard:
+>> Microsoft Office Specialisty 2016 Expert Excel   
+>> Microsoft Office Specialisty 2016 Expert Word
+---
+  
+안녕하세요. 한림대학교 빅데이터 전공 송지원입니다.   
+현재, 저는 4학년 2학기, 가상현실(VR), 게임 개발자의 꿈을 키워나가고 있으며,  
+(주)브이알애드, 의료 교육용 시뮬레이터 개발 회사에서 인턴 개발자로 근무중입니다.
 
 ### 일정
 |주차|내용|진행|
@@ -26,26 +46,7 @@
 |17주차|실무교육 - 사내 프로젝트를 기반으로 새로운 컨텐츠 제작|
 |18주차|실무교육 - 제작한 컨텐츠 피드백 및 최종 평가|
 
-### 👀Profile👀
-> - __Name__
->> 송지원 (Jiwon Song)
-> - __E-mail__
->> we726@naver.com
-> - __Github__
->> https://github.com/DevNexy
-> - __Tistory__
->> https://devjisong.tistory.com/
-> 
-> - 🎓Academic Ability🎓
->> __평원중학교 졸업__   
->> __상지여자고등학교 졸업__   
->> __한림대학교 재학__ (2023년 2월졸업 예정)
->
-> - :clipboard:__License__:clipboard:
->> Microsoft Office Specialisty 2016 Expert Excel   
->> Microsoft Office Specialisty 2016 Expert Word
 ---
-
 ### ❗Tech Stack❗
 ![DevNexy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNexy&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=we726)](https://solved.ac/we726/)   
