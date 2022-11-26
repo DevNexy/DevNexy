@@ -9,6 +9,8 @@
 >> https://github.com/DevNexy
 > - __Tistory__
 >> https://devjisong.tistory.com/
+> - __Notion__
+>> https://righteous-buffet-ed9.notion.site/VR-GAME-414893a130544d4ea41438a20bc5a7af
 > 
 > - 🎓Academic Ability🎓
 >> __평원중학교 졸업__   
