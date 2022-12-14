@@ -128,12 +128,15 @@
     - [보러가기](https://github.com/DevNexy/Room_Escape_VRGame)
   - <Basic_Operation_Method> <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/></a>&nbsp;
     - VR 병동 기본 조작법 콘텐츠
+    - Oculus quest 2를 이용하여 조작
     - 업로드 준비중
   - <Blood_Collecting> <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/></a>&nbsp;
     - VR 채혈 및 실습 콘텐츠
+    - Oculus quest 2를 이용하여 조작
     - 업로드 준비중
   - <Vital_Sign> <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/></a>&nbsp;
     - VR 활력징후 측정 콘텐츠
+    - Oculus quest 2를 이용하여 조작
     - 업로드 준비중
 ---
 
