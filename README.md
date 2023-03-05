@@ -21,10 +21,6 @@
 >> Microsoft Office Specialisty 2016 Expert Excel   
 >> Microsoft Office Specialisty 2016 Expert Word
 ---
-  
-안녕하세요. 한림대학교 빅데이터 전공 송지원입니다.   
-현재, 저는 4학년 2학기, 가상현실(VR), 게임 개발자의 꿈을 키워나가고 있으며,  
-(주)브이알애드, 의료 교육용 시뮬레이터 개발 회사에서 인턴 개발자로 근무하였습니다.
 
 현재 저는 포트폴리오 정리와 동시에 Unreal Engine 4 를 C++로 개발하는 것을 독학 중입니다.
 
