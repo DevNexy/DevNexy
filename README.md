@@ -24,12 +24,13 @@
 ---
 
 현재 저는 포트폴리오 정리와 동시에 Unreal Engine 4 를 C++로 개발하는 것을 독학 중입니다.
+-->
 
 ---
 ### ❗Tech Stack❗
 ![DevNexy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNexy&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=we726)](https://solved.ac/we726/)   
-
+<!--
 - Main    
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp;
