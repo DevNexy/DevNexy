@@ -17,6 +17,7 @@
 >> __상지여자고등학교 졸업__   
 >> __한림대학교 졸업__ (2023년 2월)
 >
+<!--
 > - :clipboard:__License__:clipboard:
 >> Microsoft Office Specialisty 2016 Expert Excel   
 >> Microsoft Office Specialisty 2016 Expert Word
@@ -160,3 +161,4 @@
   - 한림대학교 콘텐츠IT 전공 공학사 (23.02.22)
   
 ---
+-->
