@@ -21,7 +21,7 @@
 > - :clipboard:__License__:clipboard:
 >> Microsoft Office Specialisty 2016 Expert Excel   
 >> Microsoft Office Specialisty 2016 Expert Word
----
+
 <!--
 현재 저는 포트폴리오 정리와 동시에 Unreal Engine 4 를 C++로 개발하는 것을 독학 중입니다.
 -->
