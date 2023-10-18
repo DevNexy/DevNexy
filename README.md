@@ -119,6 +119,8 @@
 - 2023
   - <UE5_RPG_Metaverse><img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>&nbsp;
     - 메타버스 게임 클라이언트 개발
+    - Photon, Playfab 사용
+    - 안드로이드 빌드
     - [보러가기](https://github.com/DevNexy/UE5_RPG_Metaverse)
   - <Unreal_Photon_Chat_Voice><img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/></a>&nbsp;
     - 언리얼 포톤 챗, 포톤 보이스
