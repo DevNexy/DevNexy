@@ -116,6 +116,15 @@
     - VR 활력징후 측정 실습 콘텐츠
     - Oculus quest 2를 이용하여 조작
     - [보러가기](https://github.com/DevNexy/VR_Vital_Sign)
+- 2023
+  - <UE5_RPG_Metaverse><img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/></a>&nbsp;
+    - 메타버스 게임 클라이언트 개발
+    - [보러가기](https://github.com/DevNexy/UE5_RPG_Metaverse)
+  - <Unreal_Photon_Chat_Voice><img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/></a>&nbsp;
+    - 언리얼 포톤 챗, 포톤 보이스
+    - Photon SDK 사용
+    - [보러가기](https://github.com/DevNexy/UnrealPhoton)
+    
 ---
 
 ### :trophy:Award:trophy:
